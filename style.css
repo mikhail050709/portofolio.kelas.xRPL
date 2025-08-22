@@ -1,0 +1,58 @@
+h1{
+    color: burlywood;
+
+}
+.teks{
+    color: aquamarine;
+    background-color: #bd2020;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h3{
+    color: aquamarine;
+}
+h4{
+    color: pink;
+}
+h5{
+    color: blanchedalmond;
+}
+h6{
+    color: blueviolet;
+}  
+#footer{
+    background-color: cadetblue;
+    margin: 30px;
+    padding-left: 30px;
+    padding-bottom: 30px;
+    border-radius: 20px;
+    margin-right: 50px;
+}
+.besar{
+text-transform: uppercase
+;
+color: rgb(255, 0, 0);
+}
+.kecil{
+    text-transform: lowercase;
+    color: rgb(50, 231, 255);
+}
+.kapital{
+    text-transform: capitalize;
+    color: green;
+}
+h1{
+    text-shadow: 5px 5px 5px red;
+    color: orange;
+}
+body{
+    background-color: #f0ebef;
+}
+h5{
+    text-align: center;
+}
+.class{
+    text-align: right;
+}
+.main{
+    text-align: justify;
+}
